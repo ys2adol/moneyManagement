@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "moneyManagement/tabView.swift"
+            timestampString = "495793438.612802"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "getUserDefault(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "moneyManagement/tabView.swift"
+            timestampString = "495192867.71459"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "init(frame:tag:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "moneyManagement/sinkiTourokuView.swift"
+            timestampString = "495788480.362945"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "sinkiTourokuView"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "moneyManagement.sinkiTourokuView.titleTextField.getter : moneyManagement.customTextField"
+                  moduleName = "moneyManagement"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/inakasugi/Desktop/%E8%87%AA%E4%BD%9C%E3%82%AF%E3%83%A9%E3%82%B9/moneyManagement/moneyManagement/sinkiTourokuView.swift"
+                  timestampString = "495788480.368791"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "moneyManagement.sinkiTourokuView.titleTextField.setter : moneyManagement.customTextField"
+                  moduleName = "moneyManagement"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/inakasugi/Desktop/%E8%87%AA%E4%BD%9C%E3%82%AF%E3%83%A9%E3%82%B9/moneyManagement/moneyManagement/sinkiTourokuView.swift"
+                  timestampString = "495788480.370681"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "moneyManagement.sinkiTourokuView.titleTextField.materializeForSet : moneyManagement.customTextField"
+                  moduleName = "moneyManagement"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/inakasugi/Desktop/%E8%87%AA%E4%BD%9C%E3%82%AF%E3%83%A9%E3%82%B9/moneyManagement/moneyManagement/sinkiTourokuView.swift"
+                  timestampString = "495788480.370909"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "moneyManagement.sinkiTourokuView.init (moneyManagement.sinkiTourokuView.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; moneyManagement.sinkiTourokuView"
+                  moduleName = "moneyManagement"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/inakasugi/Desktop/%E8%87%AA%E4%BD%9C%E3%82%AF%E3%83%A9%E3%82%B9/moneyManagement/moneyManagement/sinkiTourokuView.swift"
+                  timestampString = "495788480.371125"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "237">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "moneyManagement.sinkiTourokuView.init (moneyManagement.sinkiTourokuView.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;moneyManagement.sinkiTourokuView&gt;"
+                  moduleName = "moneyManagement"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/inakasugi/Desktop/%E8%87%AA%E4%BD%9C%E3%82%AF%E3%83%A9%E3%82%B9/moneyManagement/moneyManagement/sinkiTourokuView.swift"
+                  timestampString = "495788480.371312"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "170">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "moneyManagement/tourokuForm.swift"
+            timestampString = "496081757.172585"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "getText()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
